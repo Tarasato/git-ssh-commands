@@ -54,3 +54,4 @@ to check .bashrc file
 ls -a ~
 nano ~/.bashrc
 alias cls='clear'
+source ~/.bashrc
